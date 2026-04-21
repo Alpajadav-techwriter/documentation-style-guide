@@ -18,18 +18,18 @@ to follow these guidelines to ensure consistency across all deliverables.
 ### 1.1 User-Centered Writing
 - Write for the **user's goal**, not the product's feature
 - Answer the question: *"What is the user trying to accomplish?"*
-- Use **task-based headings** — "Creating a User Account" not "User Account Feature"
+- Use **task-based headings** - "Creating a User Account" not "User Account Feature"
 
 ### 1.2 Clarity
-- Use **plain language** — write at a Grade 8 reading level for general audiences
-- Use **short sentences** — aim for 15–20 words maximum per sentence
-- Use **active voice** — "Click Save" not "The Save button should be clicked"
+- Use **plain language** - write at a Grade 8 reading level for general audiences
+- Use **short sentences** - aim for 15–20 words maximum per sentence
+- Use **active voice** - "Click Save" not "The Save button should be clicked"
 - Define technical terms on first use
 
 ### 1.3 Conciseness
-- Remove filler words — "simply", "just", "basically", "very"
-- Remove redundant phrases — "click on" → "click", "in order to" → "to"
-- Keep paragraphs to 3–5 sentences maximum
+- Remove filler words - "simply", "just", "basically", "very"
+- Remove redundant phrases - "click on" → "click", "in order to" → "to"
+- Keep paragraphs to 3-5 sentences maximum
 
 ---
 
@@ -38,7 +38,7 @@ to follow these guidelines to ensure consistency across all deliverables.
 | Use | Avoid |
 |---|---|
 | Professional and friendly | Casual or overly formal |
-| Second person — "you" | Third person — "the user" |
+| Second person - "you" | Third person - "the user" |
 | Present tense | Future tense where possible |
 | Active voice | Passive voice |
 | Positive framing | Negative framing |
@@ -56,9 +56,9 @@ to follow these guidelines to ensure consistency across all deliverables.
 ## 3. Formatting Standards
 
 ### 3.1 Headings
-- Use **sentence case** — "Getting started with the API" not "Getting Started With The API"
-- Keep headings **concise** — under 8 words where possible
-- Use heading levels logically — do not skip levels (H1 → H3)
+- Use **sentence case** - "Getting started with the API" not "Getting Started With The API"
+- Keep headings **concise** - under 8 words where possible
+- Use heading levels logically - do not skip levels (H1 → H3)
 
 ### 3.2 Lists
 - Use **bulleted lists** for unordered items (3 or more)
@@ -101,10 +101,10 @@ to follow these guidelines to ensure consistency across all deliverables.
 | requires | needs |
 
 ### 4.2 Capitalization
-- Product names: always capitalize — **Employee Management System**
+- Product names: always capitalize - **Employee Management System**
 - UI elements: capitalize as they appear in the UI
-- Feature names: capitalize — **Advanced Search**, **Export Report**
-- General terms: lowercase — user account, dashboard, settings
+- Feature names: capitalize - **Advanced Search**, **Export Report**
+- General terms: lowercase - user account, dashboard, settings
 
 ---
 
